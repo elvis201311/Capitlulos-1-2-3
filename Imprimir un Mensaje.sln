@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imprimir un Mensaje", "Imprimir un Mensaje\Imprimir un Mensaje.csproj", "{6BBD7068-210C-4639-B20C-916B21A71268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBD7068-210C-4639-B20C-916B21A71268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBD7068-210C-4639-B20C-916B21A71268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBD7068-210C-4639-B20C-916B21A71268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBD7068-210C-4639-B20C-916B21A71268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62AB27CA-1611-4843-80AC-FC31A0245E41}
+	EndGlobalSection
+EndGlobal
